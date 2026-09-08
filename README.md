@@ -250,3 +250,7 @@ Press `Ctrl c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
+
+## My Technical Modification
+
+For my technical modification, I changed the measurement from `bill_length_mm' to `body_mass_g'. I chose body mass because it is useful numeric measurement for comparing penguin sizes. After running the project, the histogram showed body masses ranging from about 2,700 to 6,300 grams, with many penguins grouped near 3,500 to 4,000 grams. The different clusters may be influenced by the differences among the penguin species.

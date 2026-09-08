@@ -104,14 +104,14 @@ process and log each one.
 """
 
 # CUSTOM: WHICH measurement to classify, and why this one.
-MEASUREMENT_COLUMN: Final[str] = "bill_length_mm"
+MEASUREMENT_COLUMN: Final[str] = "body_mass_g"
 
 # CUSTOM: Describe why we choose it.
 # Use a triple-quoted string (three double quotes) to allow multi-line text.
 # Use a raw string (r before the opening quotes) so it appears just
 # like I typed it.
 WHY_THIS_MEASUREMENT: Final[str] = r"""
-Bill length varies across penguins.
+Body mass varies across penguins.
 There is no fixed cutoff, so we'll calculate the average
 and assign a classification depending on a threshold
 around the average value.
