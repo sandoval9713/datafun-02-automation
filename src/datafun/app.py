@@ -92,14 +92,14 @@ GRAIN: Final[str] = "one penguin"  # CUSTOM
 
 
 # CUSTOM: Choose a categorical group that we could process with a for loop.
-GROUP_COLUMN: Final[str] = "species"
+GROUP_COLUMN: Final[str] = "island"
 # CUSTOM: Describe why we choose it.
 # Use a triple-quoted string (three double quotes) to allow multi-line text.
 # Use a raw string (r before the opening quotes) so it appears just
 # like I typed it.
 WHY_THIS_GROUP: Final[str] = r"""
-The species column has a small number of unique values.
-There are three unique species, so a for loop can
+The island column has a small number of unique values.
+There are three unique islands, so a for loop can
 process and log each one.
 """
 

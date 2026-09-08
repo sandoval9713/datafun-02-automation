@@ -251,6 +251,10 @@ Press `Ctrl c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 
 This project is licensed under the [MIT License](./LICENSE).
 
+## Final Project Application 
+
+For the final project, I changed the grouping column from `species' to `island' while continuing to analyze `body_mass_g`. The island column has three unique values-Biscoe, Dream, and Torgersen-so the program can process each island with a for loop. This helps explore penguin body mass in the context of the islands where the penguins were observed. 
+
 ## My Technical Modification
 
 For my technical modification, I changed the measurement from `bill_length_mm' to `body_mass_g'. I chose body mass because it is useful numeric measurement for comparing penguin sizes. After running the project, the histogram showed body masses ranging from about 2,700 to 6,300 grams, with many penguins grouped near 3,500 to 4,000 grams. The different clusters may be influenced by the differences among the penguin species.
