@@ -251,9 +251,9 @@ Press `Ctrl c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 
 This project is licensed under the [MIT License](./LICENSE).
 
-## Final Project Application 
+## Final Project Application
 
-For the final project, I changed the grouping column from `species' to `island' while continuing to analyze `body_mass_g`. The island column has three unique values-Biscoe, Dream, and Torgersen-so the program can process each island with a for loop. This helps explore penguin body mass in the context of the islands where the penguins were observed. 
+For the final project, I changed the grouping column from `species' to `island' while continuing to analyze `body_mass_g`. The island column has three unique values-Biscoe, Dream, and Torgersen-so the program can process each island with a for loop. This helps explore penguin body mass in the context of the islands where the penguins were observed.
 
 ## My Technical Modification
 

@@ -34,5 +34,5 @@ of your chosen numeric measurement.
 ![Histogram of the selected measurement](./images/measurement-distribution.png)
 
 ## Final Project Results
-This project analyzes penguin body mass and groups the penguins by island. The three islands are Biscoe, Dream, and Torgersen. Using the island column allows the program to process and log each location. 
+This project analyzes penguin body mass and groups the penguins by island. The three islands are Biscoe, Dream, and Torgersen. Using the island column allows the program to process and log each location.
 The histgram shows body masses ranging from about 2,700 to 6,300 grams, with many penguins grouped near 3,500 to 4,000 grams. These results help show the varition in penguin sizes and provide a starting point for comparing penguins across the three islands.
